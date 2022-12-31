@@ -1,4 +1,4 @@
-![alt text](https://github.com/Lif-Platforms/.github/blob/main/profile/Lif%20Banner.png)
+![alt text](https://github.com/Lif-Platforms/.github/blob/main/profile/Lif%20Banner%202.png)
 # Welcome to Lif Platforms
 Lif is a Social-Networking organization that focuses on creating social platforms.
 
