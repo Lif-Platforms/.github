@@ -8,3 +8,5 @@ Lif is a Social-Networking organization that focuses on creating social platform
 # Our Mission
 Our mission is to bring the world closer together by creating innovative services that help us connect. 
 
+#What We Build
+Lif Platforms builds and maintains 2 services as of now. We are currently working on Ringer And Dayly. Ringer is a messaging app for windows and Dayly is a social media platform. 
